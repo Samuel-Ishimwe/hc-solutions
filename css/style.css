@@ -221,6 +221,9 @@ font-size: 16px;
 
 /* Tablets and under */
 @media(max-width:768px){
+    .showcase p{
+        margin: 30px;
+    }
     .grid,
     .showcase .grid,
     .stats .grid,
@@ -273,7 +276,7 @@ font-size: 16px;
 /* Phones */
 @media(max-width:500px){
     .navbar{
-        height: 110px;
+        height: 130px;
     }
     .navbar .flex{
         flex-direction: column;
@@ -284,5 +287,8 @@ font-size: 16px;
     }
     .navbar a{
         padding-bottom: 15px;
+    }
+    .showcase p{
+        margin: 30px;
     }
 }
