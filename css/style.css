@@ -139,6 +139,9 @@ font-size: 16px;
 }
 
 /* HR Services */
+.hr-services{
+    margin-top: 60px;
+}
 .hr-services .card{
     transition: transform 0.2s ease-in;
 }
@@ -161,7 +164,7 @@ font-size: 16px;
     
 }
 
-/* Clients */
+/* Clients
 .clients .flex{
     flex-wrap: wrap;
 }
@@ -176,7 +179,7 @@ font-size: 16px;
 }
 .clients .card:hover{
     transform: translateY(-15px);
-}
+} */
 
 /* Service Page */
 .services-head img{
@@ -216,6 +219,10 @@ font-size: 16px;
 /* Footer */
 .footer .social a{
     margin: 0 10px;
+}
+.footer{
+    margin-top: 0px;
+    padding-top: 0px;
 }
 
 
