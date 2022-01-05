@@ -30,7 +30,9 @@ h1 , h2 {
     line-height: 1.2;
     margin: 10px 0;
 }
-
+.direct {
+ color: rgba(0, 0, 0, 0.1);
+}
 p{
     margin: 10px 0;
 }
