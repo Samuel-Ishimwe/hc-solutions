@@ -144,6 +144,9 @@ font-size: 16px;
 .hr-services{
     margin-top: 60px;
 }
+.hr .options {
+    padding : 20 px;
+}
 .hr-services .card{
     transition: transform 0.2s ease-in;
 }
